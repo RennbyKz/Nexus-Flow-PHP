@@ -1,0 +1,6 @@
+{
+    "name": "thebl/smart-logistics",
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}

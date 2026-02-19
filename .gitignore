@@ -1,0 +1,17 @@
+# Library များ 
+/vendor/
+
+# User တင်ထားသော ပုံများနှင့် ဖိုင်များ
+/assets/upload/
+/assets/img/tmp/
+
+# စနစ်မှ ထုတ်ပေးထားသော Reports များ
+/reports/*.pdf
+
+# Database Config 
+config/db.php
+
+# OS နှင့် IDE Setting များ
+.DS_Store
+.vscode/
+/nbproject/
